@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 $ python main.py 
 
+Локальный сервер будет доступен по [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 ### Цель проекта
 
